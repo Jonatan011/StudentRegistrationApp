@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Desktop\\Trabajo\\pruebas\\StudentRegistrationAppApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE062F37-EDD5-4B7F-9945-12B253259526}|Cutter.Security.Service\\Cutter.Security.Service.csproj|c:\\users\\jonat\\desktop\\trabajo\\pruebas\\studentregistrationappapi\\cutter.security.service\\cutter.security.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE062F37-EDD5-4B7F-9945-12B253259526}|Cutter.Security.Service\\Cutter.Security.Service.csproj|solutionrelative:cutter.security.service\\cutter.security.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cutter.Security.Service",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\Trabajo\\pruebas\\StudentRegistrationAppApi\\Cutter.Security.Service\\Cutter.Security.Service.csproj",
+              "RelativeDocumentMoniker": "Cutter.Security.Service\\Cutter.Security.Service.csproj",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\Trabajo\\pruebas\\StudentRegistrationAppApi\\Cutter.Security.Service\\Cutter.Security.Service.csproj",
+              "RelativeToolTip": "Cutter.Security.Service\\Cutter.Security.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T17:12:59.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

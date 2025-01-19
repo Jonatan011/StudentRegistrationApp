@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StudentManagement\\Data",
+    "\\StudentManagement\\Data\\DbContext",
+    "\\StudentManagement\\Data\\Entities",
+    "\\StudentManagement\\Data\\Repositories",
+    "\\StudentManagement\\DTOs",
+    "\\StudentManagement\\Mappings",
+    "\\StudentManagement\\Services",
+    "\\StudentManagement\\Tests"
+  ],
+  "SelectedNode": "\\my-student-registration-app",
+  "PreviewInSolutionExplorer": false
+}
